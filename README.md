@@ -1,3 +1,3 @@
 
 
-<img src="https://raw.githubusercontent.com/Richy-coder171/github--SVG/main/dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Richy-coder171/github--SVG/main/light.svg" width="100%"/>
